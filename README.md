@@ -30,7 +30,6 @@ Minimal, fast, and made without any frameworks.
 ## ▶️ How to Run
 
 Here is the working link:  https://my-crud-to-do-app.netlify.app
-Link is properly working!!
 
 ---
 
