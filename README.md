@@ -23,6 +23,7 @@ Minimal, fast, and made without any frameworks.
 - **CSS3**
 - **JavaScript (Vanilla JS)**
 - **LocalStorage**
+- yes yes
 
 
 ---
